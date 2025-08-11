@@ -10,7 +10,7 @@ Com esses dados, o dashboard permite:
     Observar como o trabalho remoto e o tamanho das empresas impactam a remuneração;
     Navegar por gráficos interativos que facilitam a análise.
 
-🔗 Dashboard: https://estudos-dados-com-python-2025.streamlit.app/
+🔗 Dashboard: https://dashboard-dados-python-25.streamlit.app/
 
 # Tecnologias: 
 
