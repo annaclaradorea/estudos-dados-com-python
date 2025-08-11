@@ -12,7 +12,7 @@ Com esses dados, o dashboard permite:
     Observar como o trabalho remoto e o tamanho das empresas impactam a remuneração;
     Navegar por gráficos interativos que facilitam a análise.
 
-🔗 Acesse o dashboard online: [link do Streamlit]
+🔗 Acesse o dashboard online: https://estudos-dados-com-python-2025.streamlit.app/
 
 # 🛠️ Tecnologias utilizadas: 
 
@@ -22,4 +22,8 @@ Com esses dados, o dashboard permite:
     Streamlit – desenvolvimento e publicação do dashboard
     VS Code – ambiente de desenvolvimento
     GitHub – versionamento e hospedagem do código
+
+# Fala comigo: 
+Curtiu o projeto? Não curtiu? Quer trocar ideias sobre dados, tecnologia ou tomar um café para falar sobre códigos chatos?
+Me chama no [LinkedIn](www.linkedin.com/in/annaclaradorea) ou abre uma issue aqui no GitHub. 
 
