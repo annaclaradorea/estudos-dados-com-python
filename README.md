@@ -1,4 +1,4 @@
-# 📊 Dashboard Interativo – Análise Salarial na Área de Tecnologia
+# Dashboard Interativo – Análise Salarial na Área de Tecnologia
 Este projeto foi desenvolvido durante a Imersão em Dados com Python da Alura, com o objetivo de aplicar técnicas de exploração, tratamento e visualização de dados e apresentar os resultados por meio de um dashboard interativo no Streamlit.
 
 # Sobre o projeto: 
@@ -10,16 +10,16 @@ Com esses dados, o dashboard permite:
     Observar como o trabalho remoto e o tamanho das empresas impactam a remuneração;
     Navegar por gráficos interativos que facilitam a análise.
 
-🔗 Acesse o dashboard online: https://estudos-dados-com-python-2025.streamlit.app/
+🔗 Dashboard: https://estudos-dados-com-python-2025.streamlit.app/
 
-# 🛠️ Tecnologias utilizadas: 
+# Tecnologias: 
 
     Python 3 – linguagem base do projeto
     Pandas – manipulação e tratamento de dados
     Plotly – criação de visualizações interativas
     Streamlit – desenvolvimento e publicação do dashboard
+    PyCountry - mudança de isos
     VS Code – ambiente de desenvolvimento
-    GitHub – versionamento e hospedagem do código
 
 # Fala comigo: 
 Curtiu o projeto? Não curtiu? Quer trocar ideias sobre dados, tecnologia ou tomar um café para falar sobre códigos chatos?
