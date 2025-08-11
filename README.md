@@ -23,5 +23,5 @@ Com esses dados, o dashboard permite:
 
 # Fala comigo: 
 Curtiu o projeto? Não curtiu? Quer trocar ideias sobre dados, tecnologia ou tomar um café para falar sobre códigos chatos?
-Me chama no [LinkedIn](www.linkedin.com/in/annaclaradorea) ou abre uma issue aqui no GitHub. 
+Me chama no [LinkedIn](www.linkedin.com/in/annaclaradorea) ou abre uma issue aqui no GitHub :)
 
