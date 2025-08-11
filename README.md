@@ -15,8 +15,8 @@ Com esses dados, o dashboard permite:
 # Tecnologias: 
 
     Python 3 – linguagem base do projeto
-    Pandas – manipulação e tratamento de dados
-    Plotly – criação de visualizações interativas
+    Pandas e Numpy – manipulação e tratamento de dados
+    Seaborn, Matplotlib e Plotly – criação de gráficos e visualizações interativas
     Streamlit – desenvolvimento e publicação do dashboard
     PyCountry - mudança de isos
     VS Code – ambiente de desenvolvimento
