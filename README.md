@@ -1,5 +1,3 @@
-# estudos-dados-com-python
-
 # 📊 Dashboard Interativo – Análise Salarial na Área de Tecnologia
 Este projeto foi desenvolvido durante a Imersão em Dados com Python da Alura, com o objetivo de aplicar técnicas de exploração, tratamento e visualização de dados e apresentar os resultados por meio de um dashboard interativo no Streamlit.
 
